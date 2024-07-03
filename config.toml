@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://pma.rendall.fr"
+base_url = "https://joss-rendall.github.io/pma-valence/"
 title = "Les Petits Marchands Allumés"
 description = "Boutique 100% Ğ1"
 author = "JossRendall"
