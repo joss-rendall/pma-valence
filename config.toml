@@ -25,5 +25,5 @@ header_links = [
 license = "CC BY-NC 2.0"
 email = "joss.rendall@gmail.com"
 name = "Joss Rendall"
-favicon = "/images/favicon.ico"
+# favicon = "/images/favicon.ico"
 
